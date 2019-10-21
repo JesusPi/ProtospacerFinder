@@ -1,7 +1,7 @@
 # ProtospacerFinder
 Script developed to detect CRISPR-Cas spacers´s targets in both genomic and metagenomic data.
 
-### Requisitos:
+### Requirements:
 The requirements to run ProtospacerFinder are:
 
 - Download and install BLAST locally, available on NCBI (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
@@ -9,6 +9,7 @@ The requirements to run ProtospacerFinder are:
 
 Citation: https://github.com/JesusPi/ProtospacerFinder ; https://zenodo.org/badge/latestdoi/198460207
 DOI: 10.5281/zenodo.3515357
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
